@@ -34,7 +34,7 @@ TODO (return 501 with hints until you implement them):
 `…/:id/network`, `…/:id/service`, `/api/technology/:tech/providers`.
 
 ## Run
-`npm install` → `npm start` → http://localhost:3000 · Tests: `npm test`
+`npm install` → `npm start` → http://localhost:3001 · Tests: `npm test`
 
 ## How we work (the GitHub arc)
 Issue → Branch → Explore → Plan → Build → Tests → PR → AI Review → **Human Merge** (🔴 always human).
